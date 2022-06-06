@@ -1,0 +1,39 @@
+.nav-links li a {
+    color: black;
+   
+}
+ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+    }
+.nav-center {
+    display: flex;}
+nav {
+    position: fixed;
+    top: 0;
+    left:0;
+    width: 100%;
+    background-color:white;
+}
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+#backcolor{
+    background-color: black;
+    color: white;
+    padding:10px;
+}
+button {
+    padding: 5px;
+}
